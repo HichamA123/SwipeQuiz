@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Swipe Quiz</string>
+    <string name="question1">A `val` and `var` are the same.</string>
+    <string name="question2">Mobile Application Development grants 12 ECTS.</string>
+    <string name="question3">A Unit in Kotlin corresponds to a void in Java.</string>
+    <string name="question4">In Kotlin `when` replaces the `switch` operator in Java.</string>
+    <string name="fb_incorrect">Incorrect! The answer was:</string>
+    <string name="fb_correct">Correct! The answer was:</string>
+</resources>
